@@ -1,6 +1,6 @@
 class StaticPagesController < ApplicationController
-  def signin
-  end
+ #def signin
+  #end
 
   def about
   end
